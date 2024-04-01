@@ -21,7 +21,7 @@ git clone https://github.com/SylviaKarani/interview-questions.git
 
 Make sure you have the following installed on your machine:
 
-- Python (version X.X.X)
+- Python version 3.9 or later
 - Java Development Kit (JDK)
 - etc. (list any other dependencies)
 
